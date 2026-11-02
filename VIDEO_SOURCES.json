@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hamburguesa",
+    "source": "https://www.pexels.com/video/hands-preparing-hamburger-12282853/",
+    "videoId": "12282853",
+    "author": "Pilan Filmes",
+    "description": "Cocina real: manos preparando una hamburguesa gourmet. Video ilustrativo.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/12282853/12282853-hd_1920_1080_24fps.mp4"
+  },
+  {
+    "id": "chuzo",
+    "source": "https://www.pexels.com/video/a-person-flipping-meat-in-skewers-on-a-flat-top-griddle-7008584/",
+    "videoId": "7008584",
+    "author": "Anna Tarazevich",
+    "description": "Cocina real: pinchos volteados sobre plancha plana. No muestra el acompanamiento final.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/7008584/7008584-hd_1080_1920_25fps.mp4"
+  },
+  {
+    "id": "arepa-pollo",
+    "source": "https://www.pexels.com/video/freshly-grilled-arepas-on-hot-griddle-37232230/",
+    "videoId": "37232230",
+    "author": "Cristina Cespedes",
+    "description": "Cocina real: arepas colombianas en plancha; la foto final muestra el relleno.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/37232230/15773549_2160_3840_30fps.mp4"
+  },
+  {
+    "id": "pollo-desmechado",
+    "source": "https://www.pexels.com/video/person-taking-shredded-meat-from-a-pan-5528176/",
+    "videoId": "5528176",
+    "author": "sadiq Padela",
+    "description": "Cocina real: manipulacion de pollo desmechado caliente con pinzas.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/5528176/5528176-hd_1920_1080_25fps.mp4"
+  },
+  {
+    "id": "perro",
+    "source": "https://www.pexels.com/video/close-up-of-hands-putting-ketchup-on-hot-dog-5429585/",
+    "videoId": "5429585",
+    "author": "Edwin Bond",
+    "description": "Video real de una persona anadiendo salsa a un perro caliente; clip ilustrativo, no del negocio.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/5429585/5429585-hd_1920_1080_30fps.mp4"
+  },
+  {
+    "id": "salchipapa",
+    "source": "https://www.pexels.com/video/fries-on-plates-13253647/",
+    "videoId": "13253647",
+    "author": "Arshan Ali",
+    "description": "Cocina real: papas servidas en plato. Es un video relacionado, no la receta exacta.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/13253647/13253647-hd_1080_1920_30fps.mp4"
+  },
+  {
+    "id": "butifarras",
+    "source": "https://www.pexels.com/video/sizzling-sausages-cooking-in-a-pan-36003039/",
+    "videoId": "36003039",
+    "author": "IslandHopper X",
+    "description": "Cocina real: salchichas pequenas en sarten. Video contextual; no son butifarras colombianas identificadas.",
+    "exactProduct": false,
+    "directUrl": "https://videos.pexels.com/video-files/36003039/15266968_3840_2160_24fps.mp4"
+  }
+]
